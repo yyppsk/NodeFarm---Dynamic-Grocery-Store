@@ -1,0 +1,31 @@
+{
+  "name": "node-farm-dynamic-page",
+  "version": "1.0.0",
+  "description": "Grocery Lists",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yyppsk/NodeFarm---Dynamic-Grocery-Store.git"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "author": "Pranjal Pratap Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yyppsk/NodeFarm---Dynamic-Grocery-Store/issues"
+  },
+  "homepage": "https://github.com/yyppsk/NodeFarm---Dynamic-Grocery-Store#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
